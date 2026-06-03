@@ -1,4 +1,4 @@
-# Security Test Script
+# Security Test Script.
 
 This project is a Python script that performs security testing on a target website using OWASP ZAP and Puppeteer. The script automatically runs both passive and active scans to identify vulnerabilities
 
